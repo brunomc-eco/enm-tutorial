@@ -1,0 +1,17 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio project files
+*.Rproj
+
+# documents
+*.pdf
+
+# html (readme renders)
+*.html
+
+# output files from scripts 01 and 2
+output/01_*
+output/02_*
