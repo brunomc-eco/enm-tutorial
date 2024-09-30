@@ -6,6 +6,8 @@ e-mail: [brunomc.eco@gmail.com](mailto:brunomc.eco@gmail.com)
 
 ORCID: [0000-0002-0009-5770](https://orcid.org/0000-0002-0009-5770)
 
+Last reviewed on: July 2023
+
 </br>
 
 The objective of this short tutorial is to run ecological niche models aimed at predicting the climatic suitability of a given species in a given country. We will be running three types of models: a climate envelope (bioclim), a statistical method (logistic regression), and a machine learning method (random forest). You can optionally run a maxent model, but it requires additional instalation steps that are described below. 
