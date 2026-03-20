@@ -5,6 +5,7 @@
 # Load packages
 library(CoordinateCleaner)
 library(leaflet)
+library(dplyr)
 
 # Load raw data downloaded from GBIF
 filename = "./data/gbif/aedes_albopictus_Spain.csv"
